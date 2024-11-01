@@ -1,0 +1,15 @@
+.seen{
+	filter: saturate(0%);
+}
+
+.checked {
+	position: absolute;
+	z-index: 5;
+	top: 0px;
+	left: 0px;
+}
+
+.wrap{
+	position: relative;
+	z-index: 6;
+}
